@@ -1,9 +1,9 @@
 # tdl-clock
 
-# Archivation note
+## Archivation note
 This is an old nanoproject from 2022.
 
-# Original README
+## Original README
 
 An ASCII analog clock and digital clock written in C.
 
