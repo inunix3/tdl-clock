@@ -1,5 +1,10 @@
 # tdl-clock
 
+# Archivation note
+This is an old nanoproject from 2022.
+
+# Original README
+
 An ASCII analog clock and digital clock written in C.
 
 This program does not use curses for console graphics. It uses [TDL](https://github.com/celtrecium/tdl), a curses-like library written by my friend [Celtrecium](https://github.com/celtrecium).
